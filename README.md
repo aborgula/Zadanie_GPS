@@ -1,4 +1,4 @@
-#  Zad1 GPS – Android Google Maps
+#  Zadanie GPS – Android Google Maps
 
 Aplikacja mobilna na system Android, która wyświetla mapę Google i umożliwia śledzenie aktualnej lokalizacji użytkownika za pomocą GPS, wizualizację pozycji na mapie z wykorzystaniem wygładzania danych oraz ręczne wskazanie dowolnej lokalizacji poprzez podanie współrzędnych geograficznych.
 
